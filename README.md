@@ -56,42 +56,42 @@ Test Cases:
 
 Each task includes 3 normal test cases and 3 edge cases. 
 
-Task 1: Coin Tosses
-Edge cases:
+# Task 1: Coin Tosses
+# Edge cases:
 - 0 tosses
 - 1 toss
 - 2 tosses
-Normal cases:
+# Normal cases:
 - 100 tosses
 - 500 tosses
 - 1000 tosses
 
-Task 2: Rolling a Die
-Edge cases:
+# Task 2: Rolling a Die
+# Edge cases:
 - 0 rolls
 - 1 roll
 - 2 rolls
-Normal cases:
+# Normal cases:
 - 60 rolls
 - 100 rolls
 - 500 rolls
 
-Task 3: Drawing Cards
-Edge cases:
+# Task 3: Drawing Cards
+# Edge cases:
 - 0 draws
 - 1 draw
 - 2 draws
-Normal cases:
+# Normal cases:
 - 20 draws
 - 52 draws
 - 30 draws
 
-Task 4: Two Coin Tosses
-Edge cases:
+# Task 4: Two Coin Tosses
+# Edge cases:
 - 0 tosses
 - 1 toss
 - 2 tosses
-Normal cases:
+# Normal cases:
 - 50 tosses
 - 100 tosses
 - 200 tosses
